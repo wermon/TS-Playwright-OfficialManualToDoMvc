@@ -5,4 +5,4 @@ node_modules/
 /tests-examples/
 /.vscode/
 /scripts/
-out/d
+out/*

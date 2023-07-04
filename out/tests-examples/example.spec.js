@@ -22,4 +22,3 @@ const test_1 = require("@playwright/test");
     // Expects the URL to contain intro.
     yield (0, test_1.expect)(page).toHaveURL(/.*intro/);
 }));
-//# sourceMappingURL=example.spec.js.map

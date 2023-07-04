@@ -30,4 +30,3 @@ const TODO_ITEMS = [
         TODO_ITEMS[1]
     ]);
 }));
-//# sourceMappingURL=demo-todoWithFixtureFromAnotherFile.spec.js.map
