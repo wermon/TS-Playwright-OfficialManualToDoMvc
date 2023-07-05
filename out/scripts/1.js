@@ -15,3 +15,4 @@ const { chromium, firefox, webkit } = require('@playwright/test');
     // other actions...
     yield browser.close();
 }))();
+//# sourceMappingURL=1.js.map
